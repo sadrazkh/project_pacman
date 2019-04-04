@@ -1,1 +1,1 @@
-project_pacman
+Packman_v1.0
